@@ -1,5 +1,5 @@
-Use:
-$ chmod +x sub.sh
+Use:<br />
+$ chmod +x sub.sh <br />
 $ ./sub.sh
 ![logo](https://raw.githubusercontent.com/meicookies/subdomainfinder/main/view.png)
 
