@@ -1,6 +1,6 @@
 Use:
-u@linux:~$ chmod +x sub.sh
-u@linux:~$ ./sub.sh
+$ chmod +x sub.sh
+$ ./sub.sh
 ![logo](https://raw.githubusercontent.com/meicookies/subdomainfinder/main/view.png)
 
 Result:
