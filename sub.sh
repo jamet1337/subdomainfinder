@@ -7,7 +7,7 @@ Rest Api by Jamet1337"
 echo ""
 echo -ne "Input list: "
 read web
-echo "Wait....."
+echo "Wait......"
 cat "$web" | sed 's/https:\/\///g;s/http:\/\///g;s/www.//g' > 3
 list='3'
 while IFS= read -r l
